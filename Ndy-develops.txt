@@ -1,4 +1,6 @@
-NDY RESOLUSI
+NDY RESOLUTION
 -- Focus To Learn the web with HTML, CSS, and JavaScript programming languages.
 -- Learning PHP programming language to create websites in the front-end field, and in the back-end field.
+-- Learn Python programming language to focus on cyber security.
 -- Learning java programming language to focus on making mobile phone applications.
+-- Learn Visual Basic Net programming language to create desktop applications.
