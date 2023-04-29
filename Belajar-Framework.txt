@@ -6,6 +6,8 @@ Learnig programming Language PHP with framwork:
 ^^--> Laminas
 ^^--> FuelPHP
 ^^--> Symfony
+^^--> Silex
+^^--> CodeIgniter
 
 Learn Framwork JavaScript
 ^^--> Next JS
