@@ -1,19 +1,16 @@
 NDY Belajar-Framework
 
-Learnig programming Language PHP with framwork:
+Learning programming Language PHP with framwork:
 ^^--> Laravel
-^^--> CakePHP
 ^^--> Laminas
-^^--> FuelPHP
 ^^--> Symfony
-^^--> Silex
-^^--> CodeIgniter
+^^--> PHPixie
+
 
 Learn Framwork JavaScript
-^^--> Next JS
-^^--> Node JS
-^^--> Express JS
-^^--> Aurelia
-^^--> Mithril
-^^--> Ember Js
+^^--> Angular Js
 ^^--> React Js
+^^--> Vue Js
+^^--> Ember Js
+^^--> Node Js
+^^--> Backbone js
