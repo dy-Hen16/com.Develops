@@ -1,10 +1,19 @@
-NDY Belajar-Flutter
+NDY Belajar-Framework
 
 Learnig programming Language PHP with framwork:
----> PHPixie
-
+^^--> Laravel
+^^--> CakePHP
+^^--> Laminas
+^^--> FuelPHP
+^^--> Symfony
+^^--> Silex
+^^--> CodeIgniter
 
 Learn Framwork JavaScript
-
-
-
+^^--> Next JS
+^^--> Node JS
+^^--> Express JS
+^^--> Aurelia
+^^--> Mithril
+^^--> Ember Js
+^^--> React Js
