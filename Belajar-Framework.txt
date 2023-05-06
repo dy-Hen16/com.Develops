@@ -15,3 +15,4 @@ Learn Framwork JavaScript
 ^^--> Ember Js
 ^^--> Node Js
 ^^--> Backbone js
+^^--> Next js
